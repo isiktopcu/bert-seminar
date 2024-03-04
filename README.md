@@ -4,7 +4,7 @@ This seminar delves into the complexities of detecting contextual hate speech wi
 
 Mar 5, 2024 01:00 PM (TRT)
 
-!([URL_to_image ](https://pbs.twimg.com/media/GHbgCiEWAAEjk5S?format=jpg&name=medium))
+![Flyer](https://pbs.twimg.com/media/GHbgCiEWAAEjk5S?format=jpg&name=medium)
 
 Join: https://kocun.zoom.us/meeting/register/tJwkce6vpjsrEtR-mveeU_AEpG1IX5vT5Lsb
 
