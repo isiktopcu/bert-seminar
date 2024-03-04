@@ -4,4 +4,6 @@ This seminar delves into the complexities of detecting contextual hate speech wi
 
 
 Join: https://kocun.zoom.us/meeting/register/tJwkce6vpjsrEtR-mveeU_AEpG1IX5vT5Lsb
+
+
 Twitter: [https://twitter.com/ccss_ku](https://x.com/ccss_ku/status/1762843467204473299?s=20)https://x.com/ccss_ku/status/1762843467204473299?s=20
